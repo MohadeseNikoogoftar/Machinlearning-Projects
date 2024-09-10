@@ -1,1 +1,2 @@
-
+In this project, we first load the digits_dataset with the help of the sklearn library, and then perform preprocessing on the data so that the model can be trained on train and test data. After that, we normalize the data so that all the numbers are between one and zero. after that we define the Performance Metric function and In the next phase, i.e. classification, we use 4 algorithms:  knn, random forest, ann and svm  
+Finally, we calculate the accuracy of the test and train data, recall and precision of each and compare them with each other so that we can see which algorithm's performance is stronger and with a lower error percentage.
